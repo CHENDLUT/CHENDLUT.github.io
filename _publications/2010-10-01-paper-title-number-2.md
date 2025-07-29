@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Topology optimisation of self-supporting structures based on multi-directional additive manufacturing technique"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2271458
+excerpt: 'This paper proposes a method to design self-supporting structures based on multi-directional AM'
+date: 2023-11-07
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
