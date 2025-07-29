@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: Teaching Assistant
+  * National University of Singapore
+  * Duties includes: 
+  * Supervisor: Vincent TAN
 
 * Fall 2015: Research Assistant
   * GitHub University
